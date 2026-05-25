@@ -3,7 +3,7 @@ import random
 # =========================
 # SORTING ALGORITHMS
 # =========================
-print("LOCAL VERSION - my machine changed this file")
+print("Merged local and remote changes")
 
 def bubble_sort(arr):
     n = len(arr)
