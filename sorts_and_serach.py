@@ -3,8 +3,6 @@ import random
 # =========================
 # SORTING ALGORITHMS
 # =========================
-print("REMOTE VERSION - GitHub")
-
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
