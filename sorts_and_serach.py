@@ -3,7 +3,7 @@ import random
 # =========================
 # SORTING ALGORITHMS
 # =========================
-print("LOCAL VERSION - my machine changed this file")
+print("REMOTE VERSION - GitHub")
 
 def bubble_sort(arr):
     n = len(arr)
